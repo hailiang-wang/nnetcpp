@@ -1,4 +1,4 @@
-# Neural networks in C++
+# [Neural networks in C++](https://github.com/steckdenis/nnetcpp)
 
 This library provides components used for building advanced neural networks. It is built on Eigen (for speed and ease of development) and tries to be as flexible as possible. Some of its main features are :
 

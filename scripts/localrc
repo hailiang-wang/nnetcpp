@@ -1,0 +1,4 @@
+# constants
+baseDir=$(cd `dirname "$0"`;pwd)
+srcDir=$baseDir/../src
+buildDir=$baseDir/../build
